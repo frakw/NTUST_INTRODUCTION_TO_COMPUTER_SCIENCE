@@ -1,0 +1,16 @@
+int main(void)
+{
+    float a, b;
+    a = 1.0f / 3.0f;
+    b = a * 3.0f;
+    return 0;
+}
+
+
+For the above sample code, would the value of 'b' equal to one? Please justify your answer and explain.
+
+
+
+PS1: You may upload HW1-StudentID.pdf to moodle, where StudentID is your student ID number (ex: B10815001).
+
+PS2: You also can submit handwritten homework in class at 10/15.
